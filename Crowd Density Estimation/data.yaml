@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['person']
+
+roboflow:
+  workspace: abhiroop-pamula-eqemu
+  project: crowd-density-estimation-aucpz
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/abhiroop-pamula-eqemu/crowd-density-estimation-aucpz/dataset/1
