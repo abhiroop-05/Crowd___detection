@@ -2,14 +2,13 @@
 # 👥 Crowd Density Estimation using YOLOv8
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-crowd-image.png" alt="Crowd Detection Example" width="60%" />
+  <img src="[https://user-images.githubusercontent.com/your-crowd-image.png](https://thumbs.dreamstime.com/b/people-crowd-shopping-luxury-mall-interior-bucharest-romania-june-55042732.jpg)" alt="Crowd Detection Example" width="60%" />
   <h3>Smart City Monitoring - Real-time Crowd Detection & Density Estimation</h3>
   <p>Automatically count people and visualize crowd levels using deep learning.</p>
 
   [![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)](https://www.python.org/)
   [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-red?style=flat-square&logo=ultralytics)](https://github.com/ultralytics/ultralytics)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-</div>
+  </div>
 
 ---
 
@@ -23,7 +22,7 @@ In rapidly urbanizing environments, real-time crowd monitoring is essential for 
 
 - **Source**: Custom videos recorded in public places (e.g., shopping malls)
 - **Frame Extraction**: 30+ videos processed with OpenCV at `interval = 125`
-- **Images**: Over **1000+ frames**
+- **Images**: Over **1007 frames**
 - **Annotations**: YOLOv8 format using Roboflow
 - **Classes**:  
   - `0`: Person
@@ -84,7 +83,8 @@ Crowd Dataset/
 - Exportable CSV summary
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-graph-output.png" alt="Sample Graphs" width="70%" />
+  <img src="![Screenshot 2025-04-22 112851](https://github.com/user-attachments/assets/a42fdf77-db2d-4637-81d2-a7316ffb3a41)
+" alt="Sample Graphs" width="70%" />
 </div>
 
 ---
@@ -124,9 +124,6 @@ pip install ultralytics opencv-python pandas matplotlib
 
 ---
 
-## 📄 License
-
-Licensed under the [MIT License](LICENSE).
 
 ---
 
