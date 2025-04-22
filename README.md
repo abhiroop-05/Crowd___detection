@@ -18,9 +18,8 @@ your_dataset/
 ├── labels/
 │   ├── train/
 │   └── val/
-Classes:  
-- `0`: Person
-Preprocessing Techniques
+  
+Person Preprocessing Techniques:
 -Frame Extraction: Extracted every N-th frame (interval = 125) using OpenCV
 -Image Resizing: Resized all frames to `640x640` for YOLO compatibility
 -Annotation: Labels prepared using Roboflow in YOLOv8 format
