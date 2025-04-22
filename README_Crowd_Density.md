@@ -2,7 +2,7 @@
 # 👥 Crowd Density Estimation using YOLOv8
 
 <div align="center">
-  <img src="people-crowd-shopping-luxury-mall-interior-bucharest-romania-june-55042732.webp" alt="Crowd Detection Example" width="60%" />
+  <img src="Screenshot 2025-04-22 172514.png" alt="Crowd Detection Example" width="60%" />
   <h3>Smart City Monitoring - Real-time Crowd Detection & Density Estimation</h3>
   <p>Automatically count people and visualize crowd levels using deep learning.</p>
 
@@ -122,13 +122,10 @@ pip install ultralytics opencv-python pandas matplotlib
 
 ---
 
-## 📄 License
-
-Licensed under the [MIT License](LICENSE).
 
 ---
 
 <div align="center">
-  <p>🚀 Developed by <strong>Abhir</strong> for crowd-aware smart surveillance systems</p>
+  <p>🚀 Developed by <strong>Abhi</strong> for crowd-aware smart surveillance systems</p>
   <p>⭐ Star this repo if you find it helpful!</p>
 </div>
