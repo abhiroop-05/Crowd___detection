@@ -2,7 +2,7 @@
 # 👥 Crowd Density Estimation using YOLOv8
 
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/your-crowd-image.png](https://thumbs.dreamstime.com/b/people-crowd-shopping-luxury-mall-interior-bucharest-romania-june-55042732.jpg)" alt="Crowd Detection Example" width="60%" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fcrowd-mall-shopping.html&psig=AOvVaw3XKFXY7zn7sxxz6FP_3te0&ust=1745408177279000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjCvaXG64wDFQAAAAAdAAAAABAE" alt="Crowd Detection Example" width="60%" />
   <h3>Smart City Monitoring - Real-time Crowd Detection & Density Estimation</h3>
   <p>Automatically count people and visualize crowd levels using deep learning.</p>
 
