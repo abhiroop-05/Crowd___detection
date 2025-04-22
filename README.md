@@ -70,5 +70,5 @@ Sample Visualizations
 - ![image](https://github.com/user-attachments/assets/c7bd56c1-1370-4cdc-99f5-a687ee1b6031)
 
 - Statistical summary table
-   ![image](https://github.com/user-attachments/assets/24e76ad5-847d-46f2-bda1-6e695da0991f)
+- ![image](https://github.com/user-attachments/assets/24e76ad5-847d-46f2-bda1-6e695da0991f)
 
