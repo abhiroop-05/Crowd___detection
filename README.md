@@ -20,10 +20,11 @@ your_dataset/
 │   └── val/
   
 Person Preprocessing Techniques:
--Frame Extraction: Extracted every N-th frame (interval = 125) using OpenCV
--Image Resizing: Resized all frames to `640x640` for YOLO compatibility
--Annotation: Labels prepared using Roboflow in YOLOv8 format
--Augmentation: Handled automatically by Ultralytics YOLO during training (scaling, flipping, color shifts)
+
+- Frame Extraction: Extracted every N-th frame (interval = 125) using OpenCV
+- Image Resizing: Resized all frames to `640x640` for YOLO compatibility
+- Annotation: Labels prepared using Roboflow in YOLOv8 format
+- Augmentation: Handled automatically by Ultralytics YOLO during training (scaling, flipping, color shifts)
 
 Model Training
 
