@@ -72,5 +72,3 @@ Sample Visualizations
 - Statistical summary table
    ![image](https://github.com/user-attachments/assets/24e76ad5-847d-46f2-bda1-6e695da0991f)
 
-  Project Structure
-├── extracted_frames/ # Preprocessed images ├── dataset/ # Training/validation data ├── yolov8/ # Cloned YOLO repo ├── runs/detect/crowd_yolo/ # Training results and weights ├── scripts/ │ ├── extract_frames.py │ ├── train_model.py │ └── crowd_estimation.py ├── results.csv # Training logs └── README.md
