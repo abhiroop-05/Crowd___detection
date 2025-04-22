@@ -70,21 +70,7 @@ Sample Visualizations
 - ![image](https://github.com/user-attachments/assets/c7bd56c1-1370-4cdc-99f5-a687ee1b6031)
 
 - Statistical summary table
-- Results DataFrame (first 5 rows):
-   Timestamp  People_Count Density_Category
-0   0.000000            17           Medium
-1   0.033333            19           Medium
-2   0.066667            21           Medium
-3   0.100000            18           Medium
-4   0.133333            20           Medium
+   ![image](https://github.com/user-attachments/assets/24e76ad5-847d-46f2-bda1-6e695da0991f)
 
-Summary Statistics:
-        Timestamp  People_Count
-count  284.000000    284.000000
-mean     4.716667     16.503521
-std      2.737598      2.812765
-min      0.000000     10.000000
-25%      2.358333     15.000000
-50%      4.716667     17.000000
-75%      7.075000     18.000000
-max      9.433333     27.000000
+  Project Structure
+├── extracted_frames/ # Preprocessed images ├── dataset/ # Training/validation data ├── yolov8/ # Cloned YOLO repo ├── runs/detect/crowd_yolo/ # Training results and weights ├── scripts/ │ ├── extract_frames.py │ ├── train_model.py │ └── crowd_estimation.py ├── results.csv # Training logs └── README.md
