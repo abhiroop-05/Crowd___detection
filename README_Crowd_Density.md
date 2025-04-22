@@ -21,8 +21,8 @@ In rapidly urbanizing environments, real-time crowd monitoring is essential for 
 ## 📁 Dataset
 
 - **Source**: Custom videos recorded in public places (e.g., shopping malls)
-- **Frame Extraction**: 30+ videos processed with OpenCV at `interval = 125`
-- **Images**: Over **1000+ frames**
+- **Frame Extraction**: 33 videos processed with OpenCV at `interval = 125`
+- **Images**: Over **1007 frames**
 - **Annotations**: YOLOv8 format using Roboflow
 - **Classes**:  
   - `0`: Person
