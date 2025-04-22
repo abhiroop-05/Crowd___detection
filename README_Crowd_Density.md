@@ -8,8 +8,7 @@
 
   [![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)](https://www.python.org/)
   [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-red?style=flat-square&logo=ultralytics)](https://github.com/ultralytics/ultralytics)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-</div>
+  </div>
 
 ---
 
